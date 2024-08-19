@@ -1,7 +1,6 @@
 # Blogger Scraper
 
 - Install Python libraries with `pip install -r requirements.txt`
-- Install [wkhtmltopdf](https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf)
 - Run with `./scraper.py`
 
 ## How it Works
